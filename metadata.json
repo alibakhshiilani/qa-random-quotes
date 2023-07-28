@@ -1,0 +1,13 @@
+{
+  "name": "Random quotes",
+  "uri": "qa-random-quotes",
+  "description": "Q2A Random quotes generator",
+  "version": "0.0.1",
+  "date": "27-06-28",
+  "author": "Ali Bakhshi Ilani",
+  "author_uri": "https://github.com/alibakhshiilani/qa-random-quotes ",
+  "license": "MIT",
+  "update_uri": "https://github.com/alibakhshiilani/qa-random-quotes",
+  "min_q2a": "1.4",
+  "min_php": "5.1"
+}
